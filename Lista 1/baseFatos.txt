@@ -5,4 +5,4 @@ R4: SE CPU = Sim ENTÃO PC_casual = Sim
 R5: SE RAM = Sim ENTÃO PC_high = Sim
 R6: SE PC_high = Sim ENTÃO GPU = Sim
 
-MT = {Queijo = Sim}
+MT = {PC = Sim}
