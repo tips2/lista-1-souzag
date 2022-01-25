@@ -1,0 +1,8 @@
+R1: SE PC_casual = Sim E GPU =  Sim ENTÃO PC_mid = Sim
+R2: SE PC = Sim ENTÃO CPU = Sim
+R3: SE PC = Sim ENTÃO RAM = Sim
+R4: SE CPU = Sim ENTÃO PC_casual = Sim
+R5: SE RAM = Sim ENTÃO PC_high = Sim
+R6: SE PC_high = Sim ENTÃO GPU = Sim
+
+MT = {Queijo = Sim}
